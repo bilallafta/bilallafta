@@ -1,4 +1,4 @@
-#### Hi neighbor, I'm Bilal 👋
+### Hi neighbor, I'm Bilal 👋
 - 🚀 I'm an engineer on the Growth Virality team! 
 - 📚 I’m reading *A Promised Land*, *Growth Hacking*, and *Measure What Matters*
 - 🌱 I’m learning about React & A/B experiments
